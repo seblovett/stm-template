@@ -1,0 +1,6 @@
+[
+    {
+        "name": "ARM Cortex M4",
+        "toolchainFile": "../arm_cortex_m4_toolchain.cmake"
+    }
+]

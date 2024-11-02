@@ -1,0 +1,4 @@
+﻿macropad/.cache
+macropad/build
+*/.cache
+*/build
